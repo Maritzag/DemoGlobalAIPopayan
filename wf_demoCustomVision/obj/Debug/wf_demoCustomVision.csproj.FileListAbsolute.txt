@@ -1,0 +1,51 @@
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.exe.config
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.exe
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.pdb
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.csprojAssemblyReference.cache
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.Form1.resources
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.Properties.Resources.resources
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.csproj.GenerateResource.cache
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.exe
+C:\Users\Maritzinha\Documents\GitHub\DEMOS NET\CustomVision\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.pdb
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.exe.config
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.exe
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.pdb
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.xml
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.csprojAssemblyReference.cache
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.Form1.resources
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.Properties.Resources.resources
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.csproj.GenerateResource.cache
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.csproj.CopyComplete
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.exe
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.pdb
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll
+C:\Users\Maritzinha\Documents\GitHub\Demo01\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.xml
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.exe.config
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.exe
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\wf_demoCustomVision.pdb
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.dll
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.dll
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction.xml
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.xml
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.csprojAssemblyReference.cache
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.Form1.resources
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.Properties.Resources.resources
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.csproj.GenerateResource.cache
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.csproj.CopyComplete
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.exe
+C:\Users\Maritzinha\Documents\GitHub\DemoGlobalAIPopayan\wf_demoCustomVision\obj\Debug\wf_demoCustomVision.pdb
