@@ -1,0 +1,53 @@
+import pandas as pd
+dataframe = pd.read_csv("heart_complete.csv", header=None)
+        
+X = dataframe[dataframe.columns[0:dataframe.shape[1]-1]]
+Y = dataframe[len (dataframe.columns)-1]    
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import chi2
+# feature extraction
+test = SelectKBest(score_func=chi2, k=5)
+
+fit = test.fit(X, Y)
+
+selected_feature = []
+for i in range (len(fit.get_support())):
+    if (fit.get_support()[i]):
+        selected_feature.append(dataframe.columns[i])        
+print (selected_feature)
+
+
+# ignore all future warnings
+from warnings import simplefilter
+simplefilter(action='ignore', category=FutureWarning)
+
+#########################clasificación
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+
+X_train, X_test, y_train, y_test = train_test_split(
+                            X[selected_feature], Y, test_size=0.33)
+
+modelo = RandomForestClassifier()
+
+modelo.fit(X_train, y_train)
+    #            print('')
+print("RandomForestClassifier",modelo.score(X_test, y_test))
+
+modelo2 = LogisticRegression()
+modelo2.fit(X_train, y_train)
+print("LogisticRegression",modelo2.score(X_test, y_test))
+
+
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.svm import SVC
+
+modelo3= DecisionTreeClassifier()
+modelo3.fit(X_train, y_train)
+print("DecisionTreeClassifier",modelo3.score(X_test, y_test))
+
+
+modelo3= SVC()
+modelo3.fit(X_train, y_train)
+print("SVC",modelo3.score(X_test, y_test))
